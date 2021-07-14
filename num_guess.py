@@ -19,3 +19,8 @@ for i in range(1,MaxGuess+1):
             break
         else:
             print('Incorrect guess.')
+            if guess >= Rand:
+                print('The number is Smaller.')
+            else:
+                print('The number is Greater.')
+            
