@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
 ### Hi 👋
 I'm studying energy systems engineering as a master's student at sharif university of technology.
 
